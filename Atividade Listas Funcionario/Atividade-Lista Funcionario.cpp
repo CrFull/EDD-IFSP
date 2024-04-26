@@ -65,10 +65,10 @@ bool pesquisarFuncionario(Lista* lista,int prontuario) {
 	}	
 	if(aux != NULL){
 		cout << "\n\n---------------" << endl;
-		cout<<"\n\nFuncionário encontrado!\n\n";
-		cout <<"\nProntuário:" << aux->funcionario.getProntuario()<< endl;
+		cout<<"\n\nFuncionÃ¡rio encontrado!\n\n";
+		cout <<"\nProntuÃ¡rio:" << aux->funcionario.getProntuario()<< endl;
 		cout <<"\nNome:" << aux->funcionario.getNome()<< endl;
-		cout <<"\nSalário:" << aux->funcionario.getSalario()<< endl;
+		cout <<"\nSalÃ¡rio:" << aux->funcionario.getSalario()<< endl;
 		cout << "---------------" << endl;
 		return true;
 	}
@@ -78,29 +78,30 @@ bool pesquisarFuncionario(Lista* lista,int prontuario) {
 Lista* cadastrarFuncionario(Lista* lista) {
  	int pronturario;
 	
-    cout <<"\n\n\n Cadastrar Funcionário: "<< endl;
-    cout << "\n\nDigite o prontuário: ";
+    cout <<"\n\n\n Cadastrar FuncionÃ¡rio: "<< endl;
+    cout << "\n\nDigite o prontuÃ¡rio: ";
     cin>>pronturario;
     
     if(pesquisarFuncionario(lista, pronturario)){
-		cout <<"\n\nOperação inválida! \nFuncionário com o mesmo prontuário encontrado! Por favor, verifique os dados e tente novamente."<< endl;
+		cout <<"\n\nOperaÃ§Ã£o invÃ¡lida! \nFuncionÃ¡rio com o mesmo prontuÃ¡rio encontrado! Por favor, verifique os dados e tente novamente."<< endl;
 		return lista;
    }
 
 		string nome;
 		double salario;
 		
-		cout << "\nDigite o nome do Funcionário: ";
-	    cin>>nome;
+		cout << "\nDigite o nome do FuncionÃ¡rio: ";
+	        cin.ignore(); 
+    		getline(cin, nome);
 		
-	    cout << "\nDigite o salário do Funcionário: ";
+	    cout << "\nDigite o salÃ¡rio do FuncionÃ¡rio: ";
 	    cin>>salario;
 	    
 	 	Funcionario f(pronturario, nome, salario);
 	    Lista* novo = new Lista();
 		novo->funcionario = f;
 		novo->prox = lista;
-		cout << "\n\nFuncionário Cadastrado com Sucesso!\n ";
+		cout << "\n\nFuncionÃ¡rio Cadastrado com Sucesso!\n ";
 		return novo;
   
     
@@ -121,7 +122,7 @@ Lista* deletarFuncionario(Lista* lista, int prontuario) {
 	}	
 	
     if (aux == NULL) {
-		cout<< "\n\nFuncionário não encontrado!\n"; 
+		cout<< "\n\nFuncionÃ¡rio nÃ£o encontrado!\n"; 
 		return lista;
 	}
 	
@@ -132,7 +133,7 @@ Lista* deletarFuncionario(Lista* lista, int prontuario) {
 		ant->prox = aux->prox;
 	}
 	free(aux);
-	cout<< "\n\n Funcionário deletado com Sucesso!\n";
+	cout<< "\n\n FuncionÃ¡rio deletado com Sucesso!\n";
 	
 	return lista;
 }
@@ -146,17 +147,17 @@ void listarFuncionarios(Lista* lista) {
 	double totalSalarios = 0;
     cout << "\n\n\n---------------" << endl;
 	while (aux != NULL) {
-		cout <<"\n"<<qtd <<"º Funcionário: " << endl;
-		cout <<"\nProntuário:" << aux->funcionario.getProntuario()<< endl;
+		cout <<"\n"<<qtd <<"Âº FuncionÃ¡rio: " << endl;
+		cout <<"\nProntuÃ¡rio:" << aux->funcionario.getProntuario()<< endl;
 		cout <<"\nNome:" << aux->funcionario.getNome()<< endl;
-		cout <<"\nSalário:" << aux->funcionario.getSalario()<< endl << endl;
+		cout <<"\nSalÃ¡rio:" << aux->funcionario.getSalario()<< endl << endl;
         cout << "---------------" << endl;
 		totalSalarios += aux->funcionario.getSalario();
 		aux = aux->prox;
 		qtd++;
 		
 	}
-	cout << "Total de Salários: "<< totalSalarios << endl;
+	cout << "Total de SalÃ¡rios: "<< totalSalarios << endl;
 	cout << "---------------" << endl;
 
 }
@@ -180,13 +181,13 @@ int main(int argc, char** argv)
 	int prontuario;
 	
     do {
-        cout << "\nMenu de Opções:" << endl;
+        cout << "\nMenu de OpÃ§Ãµes:" << endl;
         cout << "0. Sair" << endl;
-        cout << "1. Incluir Funcionário" << endl;
-        cout << "2. Excluir Funcionário" << endl;
-        cout << "3. Pesquisar Funcionário" << endl;
-        cout << "4. Listar Funcionários" << endl;
-        cout << "\n\nEscolha uma opção: ";
+        cout << "1. Incluir FuncionÃ¡rio" << endl;
+        cout << "2. Excluir FuncionÃ¡rio" << endl;
+        cout << "3. Pesquisar FuncionÃ¡rio" << endl;
+        cout << "4. Listar FuncionÃ¡rios" << endl;
+        cout << "\n\nEscolha uma opÃ§Ã£o: ";
         cin >> opcao;
 
         switch (opcao) {
@@ -197,22 +198,22 @@ int main(int argc, char** argv)
                 listaFuncionarios = cadastrarFuncionario(listaFuncionarios);
                 break;
             case 2:
-                cout << "\nDigite o prontuário do funcionário a ser excluído: ";
+                cout << "\nDigite o prontuÃ¡rio do funcionÃ¡rio a ser excluÃ­do: ";
                 cin >> prontuario;
                 listaFuncionarios = deletarFuncionario(listaFuncionarios, prontuario);
                 break;
             case 3:
                
-                cout << "\nDigite o prontuário do funcionário a ser pesquisado: ";
+                cout << "\nDigite o prontuÃ¡rio do funcionÃ¡rio a ser pesquisado: ";
                 cin >> prontuario;
                 if(pesquisarFuncionario(listaFuncionarios, prontuario) == false)
-                	cout << "\nFuncinario não cadastrado!\n\n";
+                	cout << "\nFuncinario nÃ£o cadastrado!\n\n";
                 break;
             case 4:
                 listarFuncionarios(listaFuncionarios);
                 break;
             default:
-                cout << "\nOpção inválida! Por favor, escolha uma opção válida." << endl;
+                cout << "\nOpÃ§Ã£o invÃ¡lida! Por favor, escolha uma opÃ§Ã£o vÃ¡lida." << endl;
                 break;
         }
     } while (opcao != 0);
