@@ -218,6 +218,6 @@ int main(int argc, char** argv)
         }
     } while (opcao != 0);
 
-    limparLista(listaFuncionarios); // Free memory allocated for the list
+    limparLista(listaFuncionarios); 
     return 0;
 }
