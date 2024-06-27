@@ -98,7 +98,7 @@ int main(int argc, char** argv)
 	srand((unsigned) time(NULL));
 	
     do {
-        cout << "\nMenu de Opções:" << endl;
+        cout << "\nMenu de OpÃ§Ãµes:" << endl;
         cout << "0. Sair" << endl;
         cout << "1. Gerar Senha" << endl;
         cout << "2. Realizar atendimento\n" << endl;
@@ -108,7 +108,7 @@ int main(int argc, char** argv)
             case 0:
             	if(isEmpty(senhasGeradas)==false){
 					opcao = -1;
-					cout << "\n\nNão foi possível encerrar o programa! Há ainda senhas geradas e não atendidas!\n\n" << endl;
+					cout << "\n\nNÃ£o foi possÃ­vel encerrar o programa! HÃ¡ ainda senhas geradas e nÃ£o atendidas!\n\n" << endl;
 					break;
 				}
    		        cout << "\nSenhas atendidas: " << qtdSenhasAtendidas << endl;
@@ -136,16 +136,17 @@ int main(int argc, char** argv)
 					cout<<"\n\n"<<endl;	
 					Beep (500, 1000);	
 				}else
-					cout<<"\n\nNão há senhas para atendimento!\n\n";
+					cout<<"\n\nNÃ£o hÃ¡ senhas para atendimento!\n\n";
 				
                 break;
             
 		            
             default:
-                cout << "\nOpção inválida! Por favor, escolha uma opção válida." << endl;
+                cout << "\nOpÃ§Ã£o invÃ¡lida! Por favor, escolha uma opÃ§Ã£o vÃ¡lida." << endl;
                 break;
         }
     } while (opcao != 0);
-		
+    freeFila(senhasGeradas);
+    freeFila(senhasAtendidas);	
 	return 0;
 }
