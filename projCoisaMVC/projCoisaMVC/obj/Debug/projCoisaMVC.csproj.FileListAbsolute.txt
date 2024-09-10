@@ -1,0 +1,15 @@
+C:\Users\aluno\source\repos\projCoisaMVC\projCoisaMVC\bin\Debug\projCoisaMVC.exe.config
+C:\Users\aluno\source\repos\projCoisaMVC\projCoisaMVC\bin\Debug\projCoisaMVC.exe
+C:\Users\aluno\source\repos\projCoisaMVC\projCoisaMVC\bin\Debug\projCoisaMVC.pdb
+C:\Users\aluno\source\repos\projCoisaMVC\projCoisaMVC\obj\Debug\projCoisaMVC.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\projCoisaMVC\projCoisaMVC\obj\Debug\projCoisaMVC.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\projCoisaMVC\projCoisaMVC\obj\Debug\projCoisaMVC.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\projCoisaMVC\projCoisaMVC\obj\Debug\projCoisaMVC.exe
+C:\Users\aluno\source\repos\projCoisaMVC\projCoisaMVC\obj\Debug\projCoisaMVC.pdb
+C:\Users\joaos\Source\Repos\ADS-ED2-20240909\projCoisaMVC\projCoisaMVC\bin\Debug\projCoisaMVC.exe.config
+C:\Users\joaos\Source\Repos\ADS-ED2-20240909\projCoisaMVC\projCoisaMVC\bin\Debug\projCoisaMVC.exe
+C:\Users\joaos\Source\Repos\ADS-ED2-20240909\projCoisaMVC\projCoisaMVC\bin\Debug\projCoisaMVC.pdb
+C:\Users\joaos\Source\Repos\ADS-ED2-20240909\projCoisaMVC\projCoisaMVC\obj\Debug\projCoisaMVC.csproj.AssemblyReference.cache
+C:\Users\joaos\Source\Repos\ADS-ED2-20240909\projCoisaMVC\projCoisaMVC\obj\Debug\projCoisaMVC.csproj.CoreCompileInputs.cache
+C:\Users\joaos\Source\Repos\ADS-ED2-20240909\projCoisaMVC\projCoisaMVC\obj\Debug\projCoisaMVC.exe
+C:\Users\joaos\Source\Repos\ADS-ED2-20240909\projCoisaMVC\projCoisaMVC\obj\Debug\projCoisaMVC.pdb
