@@ -1,0 +1,17 @@
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Cursos\MVC-Cursos\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Cursos\MVC-Cursos\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Cursos\MVC-Cursos\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Cursos\MVC-Cursos\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Cursos\MVC-Cursos\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Cursos\MVC-Cursos\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Cursos\MVC-Cursos\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Cursos\MVC-Cursos\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Cursos\MVC-Cursos\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Cursos\MVC-Cursos\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Cursos\MVC-Cursos\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Cursos\MVC-Cursos\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Cursos\MVC-Cursos\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Cursos\MVC-Cursos\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Cursos\MVC-Cursos\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Cursos\MVC-Cursos\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Cursos\MVC-Cursos\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
