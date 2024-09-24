@@ -1,0 +1,17 @@
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Vendedores\Proj.MVC-Vendedores\bin\Debug\net8.0-windows\Proj.MVC-Vendedores.exe
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Vendedores\Proj.MVC-Vendedores\bin\Debug\net8.0-windows\Proj.MVC-Vendedores.deps.json
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Vendedores\Proj.MVC-Vendedores\bin\Debug\net8.0-windows\Proj.MVC-Vendedores.runtimeconfig.json
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Vendedores\Proj.MVC-Vendedores\bin\Debug\net8.0-windows\Proj.MVC-Vendedores.dll
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Vendedores\Proj.MVC-Vendedores\bin\Debug\net8.0-windows\Proj.MVC-Vendedores.pdb
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Vendedores\Proj.MVC-Vendedores\obj\Debug\net8.0-windows\Proj.MVC_Vendedores.Form1.resources
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Vendedores\Proj.MVC-Vendedores\obj\Debug\net8.0-windows\Proj.MVC-Vendedores.csproj.GenerateResource.cache
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Vendedores\Proj.MVC-Vendedores\obj\Debug\net8.0-windows\Proj.MVC-Vendedores.GeneratedMSBuildEditorConfig.editorconfig
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Vendedores\Proj.MVC-Vendedores\obj\Debug\net8.0-windows\Proj.MVC-Vendedores.AssemblyInfoInputs.cache
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Vendedores\Proj.MVC-Vendedores\obj\Debug\net8.0-windows\Proj.MVC-Vendedores.AssemblyInfo.cs
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Vendedores\Proj.MVC-Vendedores\obj\Debug\net8.0-windows\Proj.MVC-Vendedores.csproj.CoreCompileInputs.cache
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Vendedores\Proj.MVC-Vendedores\obj\Debug\net8.0-windows\Proj.MVC-Vendedores.sourcelink.json
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Vendedores\Proj.MVC-Vendedores\obj\Debug\net8.0-windows\Proj.MVC-Vendedores.dll
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Vendedores\Proj.MVC-Vendedores\obj\Debug\net8.0-windows\refint\Proj.MVC-Vendedores.dll
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Vendedores\Proj.MVC-Vendedores\obj\Debug\net8.0-windows\Proj.MVC-Vendedores.pdb
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Vendedores\Proj.MVC-Vendedores\obj\Debug\net8.0-windows\Proj.MVC-Vendedores.genruntimeconfig.cache
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Vendedores\Proj.MVC-Vendedores\obj\Debug\net8.0-windows\ref\Proj.MVC-Vendedores.dll

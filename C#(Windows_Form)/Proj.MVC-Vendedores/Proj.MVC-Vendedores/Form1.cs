@@ -74,17 +74,18 @@ namespace Proj.MVC_Vendedores
             if (vendedores.Any())
             {
                 StringBuilder message = new StringBuilder();
-
+                double valorDeVendasDeTodosOsVendedores = 0;
                 foreach (Vendedor vendedor in vendedores)
                 {
                     message.AppendLine($"ID: {vendedor.Id}");
                     message.AppendLine($"Nome: {vendedor.Nome}");
                     message.AppendLine($"Valor Total de Vendas: {vendedor.ValorVendas().ToString("C")}");
+                    valorDeVendasDeTodosOsVendedores += vendedor.ValorVendas();
                     message.AppendLine($"Comissão: {vendedor.ValorComissao().ToString("C")}");
-                    message.AppendLine(new string('-', 30)); // Linha separadora
+                    message.AppendLine(new string('-', 30));
                 }
 
-                MessageBox.Show(message.ToString(), "Lista de Vendedores", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show(message.ToString() + valorDeVendasDeTodosOsVendedores.ToString(), "Lista de Vendedores", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             else
             {

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joaos\\source\\repos\\Proj.MVC-Vendedores\\Proj.MVC-Vendedores\\Proj.MVC-Vendedores.csproj",
+      "projectUniqueName": "C:\\T.I\\IFSP-ADS\\EDD\\EDD-IFSP\\C#(Windows_Form)\\Proj.MVC-Vendedores\\Proj.MVC-Vendedores\\Proj.MVC-Vendedores.csproj",
       "projectName": "Proj.MVC-Vendedores",
-      "projectPath": "C:\\Users\\joaos\\source\\repos\\Proj.MVC-Vendedores\\Proj.MVC-Vendedores\\Proj.MVC-Vendedores.csproj",
+      "projectPath": "C:\\T.I\\IFSP-ADS\\EDD\\EDD-IFSP\\C#(Windows_Form)\\Proj.MVC-Vendedores\\Proj.MVC-Vendedores\\Proj.MVC-Vendedores.csproj",
       "packagesPath": "C:\\Users\\joaos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joaos\\source\\repos\\Proj.MVC-Vendedores\\Proj.MVC-Vendedores\\obj\\",
+      "outputPath": "C:\\T.I\\IFSP-ADS\\EDD\\EDD-IFSP\\C#(Windows_Form)\\Proj.MVC-Vendedores\\Proj.MVC-Vendedores\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joaos\\AppData\\Roaming\\NuGet\\NuGet.Config",
