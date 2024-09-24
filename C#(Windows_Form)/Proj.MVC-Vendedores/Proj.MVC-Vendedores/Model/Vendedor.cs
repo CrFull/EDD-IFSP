@@ -34,7 +34,7 @@ namespace Proj.MVC_Vendedores.Model
         public double ValorVendas()
         {
             double total = 0;
-            foreach (var venda in AsVendas)
+            foreach (Venda venda in AsVendas)
             {
                 if (venda != null)
                 {

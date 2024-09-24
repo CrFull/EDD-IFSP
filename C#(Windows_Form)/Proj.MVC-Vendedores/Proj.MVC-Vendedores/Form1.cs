@@ -1,16 +1,16 @@
 using Proj.MVC_Vendedores.Controller;
 using Proj.MVC_Vendedores.Model;
+using System.Linq.Expressions;
 using System.Text;
 
 namespace Proj.MVC_Vendedores
 {
     public partial class Form1 : Form
     {
-        private VendedoresController controller;
+        private VendedoresController controller =  new VendedoresController();
         public Form1()
         {
             InitializeComponent();
-            this.controller = controller;
         }
         private void btnRegistrarVenda_Click(object sender, EventArgs e)
         {
@@ -85,7 +85,7 @@ namespace Proj.MVC_Vendedores
                     message.AppendLine(new string('-', 30));
                 }
 
-                MessageBox.Show(message.ToString() + valorDeVendasDeTodosOsVendedores.ToString(), "Lista de Vendedores", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show(message.ToString() + "Faturamento com as vendas: R$" + valorDeVendasDeTodosOsVendedores.ToString(), "Lista de Vendedores", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             else
             {

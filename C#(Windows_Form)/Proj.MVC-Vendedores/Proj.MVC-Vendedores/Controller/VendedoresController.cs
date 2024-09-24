@@ -18,8 +18,9 @@ namespace Proj.MVC_Vendedores.Controller
 
         public bool CadastrarVendedor(int id, string nome, double percComissao)
         {
-            var vendedor = new Vendedor(id, nome, percComissao);
-            return vendedores.AddVendedor(vendedor);
+            Vendedor vendedor = new Vendedor(id, nome, percComissao);
+            bool isCreated = vendedores.AddVendedor(vendedor);
+            return isCreated;
         }
 
         public Vendedor ConsultarVendedor(int id)
@@ -34,7 +35,7 @@ namespace Proj.MVC_Vendedores.Controller
 
         public bool RegistrarVenda(int id, int dia, int qtde, double valor)
         {
-            var vendedor = vendedores.SearchVendedor(id);
+            Vendedor vendedor = vendedores.SearchVendedor(id);
             if (vendedor != null)
             {
                 var venda = new Venda(qtde, valor);
