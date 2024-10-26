@@ -1,0 +1,7 @@
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.Biblioteca\Proj.Biblioteca\bin\Debug\Proj.Biblioteca.exe.config
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.Biblioteca\Proj.Biblioteca\bin\Debug\Proj.Biblioteca.exe
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.Biblioteca\Proj.Biblioteca\bin\Debug\Proj.Biblioteca.pdb
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.Biblioteca\Proj.Biblioteca\obj\Debug\Proj.Biblioteca.csproj.AssemblyReference.cache
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.Biblioteca\Proj.Biblioteca\obj\Debug\Proj.Biblioteca.csproj.CoreCompileInputs.cache
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.Biblioteca\Proj.Biblioteca\obj\Debug\Proj.Biblioteca.exe
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.Biblioteca\Proj.Biblioteca\obj\Debug\Proj.Biblioteca.pdb
