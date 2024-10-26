@@ -77,7 +77,21 @@ namespace WinFormsApp1.Model
 
         public override string ToString()
         {
-            return string.Join(", ", disciplinas.Where(d => d != null).Select(d => d.ToString()));
+            if (disciplinaCount == 0)
+            {
+                return $"Curso: {Descricao} (ID: {Id}) - Nenhuma disciplina cadastrada.";
+            }
+
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine($"Curso: {Descricao} (ID: {Id})");
+            sb.AppendLine("Disciplinas:");
+
+            for (int i = 0; i < disciplinaCount; i++)
+            {
+                sb.AppendLine($"- {disciplinas[i].Descricao} (ID: {disciplinas[i].Id})");
+            }
+
+            return sb.ToString();
         }
     }
 

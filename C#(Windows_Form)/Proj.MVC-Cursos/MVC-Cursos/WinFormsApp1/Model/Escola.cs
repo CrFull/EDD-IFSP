@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace WinFormsApp1.Model
 {
@@ -36,10 +37,10 @@ namespace WinFormsApp1.Model
         {
             for (int i = 0; i < cursoCount; i++)
             {
-                if (cursos[i] == curso)
+                if (cursos[i].Id == curso.Id )
                 {
-                    if (cursos[i].Disciplinas.All(d => d.ObterAlunosMatriculados().Length == 0)) // Verifica se não há disciplinas com alunos
-                    {
+                    if (cursos[i].Disciplinas == null || cursos[i].Disciplinas.Length == 0)
+                    { 
                         cursos[i] = cursos[--cursoCount]; 
                         return true;
                     }

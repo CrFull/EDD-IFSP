@@ -1,0 +1,7 @@
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Cursos\Proj.Contato\Proj.Contato\bin\Debug\Proj.Contato.exe.config
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Cursos\Proj.Contato\Proj.Contato\bin\Debug\Proj.Contato.exe
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Cursos\Proj.Contato\Proj.Contato\bin\Debug\Proj.Contato.pdb
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Cursos\Proj.Contato\Proj.Contato\obj\Debug\Proj.Contato.csproj.AssemblyReference.cache
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Cursos\Proj.Contato\Proj.Contato\obj\Debug\Proj.Contato.csproj.CoreCompileInputs.cache
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Cursos\Proj.Contato\Proj.Contato\obj\Debug\Proj.Contato.exe
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.MVC-Cursos\Proj.Contato\Proj.Contato\obj\Debug\Proj.Contato.pdb

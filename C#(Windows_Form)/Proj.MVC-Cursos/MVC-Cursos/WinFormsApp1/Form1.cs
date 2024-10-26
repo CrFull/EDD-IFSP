@@ -29,13 +29,13 @@ namespace WinFormsApp1
         private void btnPesquisarCurso_Click(object sender, EventArgs e)
         {
             int IdCurso = int.Parse(txtIdCurso.Text);
-            MessageBox.Show(globalController.escolaController.PesquisarCurso(globalController.cursoController.criarCurso(IdCurso)).Disciplinas.ToString());
+            MessageBox.Show(globalController.escolaController.PesquisarCurso(globalController.cursoController.criarCurso(IdCurso)).ToString());
         }
 
         private void btnRemoverCurso_Click(object sender, EventArgs e)
         {
             int IdCurso = int.Parse(txtIdCurso.Text);
-            if (globalController.escolaController.RemoverCurso(globalController.cursoController.criarCurso(IdCurso)))
+            if (globalController.escolaController.RemoverCurso(globalController.escolaController.PesquisarCurso(globalController.cursoController.criarCurso(IdCurso))))
                 MessageBox.Show("Curso removido com sucesso!");
             else
                 MessageBox.Show("Falha ao remover Curso!");
