@@ -1,0 +1,10 @@
+C:\Users\joaos\Downloads\Projeto_Atendimento\Projeto_Atendimento\Projeto_Atendimento\bin\Debug\Projeto_Atendimento.exe.config
+C:\Users\joaos\Downloads\Projeto_Atendimento\Projeto_Atendimento\Projeto_Atendimento\bin\Debug\Projeto_Atendimento.exe
+C:\Users\joaos\Downloads\Projeto_Atendimento\Projeto_Atendimento\Projeto_Atendimento\bin\Debug\Projeto_Atendimento.pdb
+C:\Users\joaos\Downloads\Projeto_Atendimento\Projeto_Atendimento\Projeto_Atendimento\obj\Debug\Projeto_Atendimento.csproj.AssemblyReference.cache
+C:\Users\joaos\Downloads\Projeto_Atendimento\Projeto_Atendimento\Projeto_Atendimento\obj\Debug\Projeto_Atendimento.Form1.resources
+C:\Users\joaos\Downloads\Projeto_Atendimento\Projeto_Atendimento\Projeto_Atendimento\obj\Debug\Projeto_Atendimento.Properties.Resources.resources
+C:\Users\joaos\Downloads\Projeto_Atendimento\Projeto_Atendimento\Projeto_Atendimento\obj\Debug\Projeto_Atendimento.csproj.GenerateResource.cache
+C:\Users\joaos\Downloads\Projeto_Atendimento\Projeto_Atendimento\Projeto_Atendimento\obj\Debug\Projeto_Atendimento.csproj.CoreCompileInputs.cache
+C:\Users\joaos\Downloads\Projeto_Atendimento\Projeto_Atendimento\Projeto_Atendimento\obj\Debug\Projeto_Atendimento.exe
+C:\Users\joaos\Downloads\Projeto_Atendimento\Projeto_Atendimento\Projeto_Atendimento\obj\Debug\Projeto_Atendimento.pdb
