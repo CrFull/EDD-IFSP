@@ -1,0 +1,7 @@
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.Medicamento\Proj.Medicamento\bin\Debug\Proj.Medicamento.exe.config
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.Medicamento\Proj.Medicamento\bin\Debug\Proj.Medicamento.exe
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.Medicamento\Proj.Medicamento\bin\Debug\Proj.Medicamento.pdb
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.Medicamento\Proj.Medicamento\obj\Debug\Proj.Medicamento.csproj.AssemblyReference.cache
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.Medicamento\Proj.Medicamento\obj\Debug\Proj.Medicamento.csproj.CoreCompileInputs.cache
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.Medicamento\Proj.Medicamento\obj\Debug\Proj.Medicamento.exe
+C:\T.I\IFSP-ADS\EDD\EDD-IFSP\C#(Windows_Form)\Proj.Medicamento\Proj.Medicamento\obj\Debug\Proj.Medicamento.pdb
