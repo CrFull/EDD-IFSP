@@ -1,0 +1,30 @@
+Instalado a dependencia de conexão com o Mysql no console do Visual Studio: 
+
+Install-Package MySql.Data
+
+
+Script para criação da database em Mysql: 
+
+CREATE DATABASE controle_acesso;
+
+USE controle_acesso;
+
+CREATE TABLE usuarios (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE ambientes (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE logs (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    dt_acesso DATETIME NOT NULL,
+    usuario_id INT NOT NULL,
+    ambiente_id INT NOT NULL,
+    tipo_acesso BOOLEAN NOT NULL,
+    FOREIGN KEY (usuario_id) REFERENCES usuarios(id),
+    FOREIGN KEY (ambiente_id) REFERENCES ambientes(id)
+);

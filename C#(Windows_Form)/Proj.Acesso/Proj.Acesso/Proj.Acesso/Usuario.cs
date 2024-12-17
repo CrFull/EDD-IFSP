@@ -25,11 +25,13 @@ namespace Proj.Acesso
         
         public bool concederPermissao(Ambiente ambiente)
         {
-
+            if (Ambientes.Contains(ambiente)) return false;
+            Ambientes.Add(ambiente);
+            return true;
         }
         public bool revogarPermissao(Ambiente ambiente)
         {
-
+            return Ambientes.Remove(ambiente);
         }
     }
 }
